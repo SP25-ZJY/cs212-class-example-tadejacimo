@@ -83,13 +83,14 @@ Download IntelliJ from [https://www.jetbrains.com/idea/download](https://www.jet
 ### `Step 2 Configure IntelliJ with your Github account information`
 1. Exit the **New Project** screen.
 2. Go to **Customize** (below Projects) and select **All settings.**
+   - Follow the Steps on the image
 
-<img src="https://github.com/user-attachments/assets/8b0e3585-f8ac-4945-8446-33e473f5f7e9" width="75%" height="auto">
+<img src="https://github.com/user-attachments/assets/9dd08b32-5c83-42f0-89f5-58ba81c268ea" width="75%" height="auto">
 
-3. On the left-hand side, choose **Version Control**, then **GitHub.**
-4. Click on **Add account** and follow the instructions to log in and authorize IntelliJ.
+3. Give all permissions `->` Copy the token `->` Use the token
 
-<img src="https://github.com/user-attachments/assets/5e6d32fe-a944-4246-a55d-811ca584a455" width="75%" height="auto">
+<img src="https://github.com/user-attachments/assets/226ae1bf-70d0-42e0-b6e6-c85de7461204" width="75%" height="auto">
+
 
 [<h2>⬆Back To Top⬆</h2>](#setup-guide)
 
