@@ -51,6 +51,33 @@ Much of your participation grade will be based on your portfolio.
 - Therefore, if you are not attending or miss many classes, your participation will suffer.
 
 ---
+## `January Participation`
+<h3>1. How much time do you spend per week studying for this class (not including regular meeting times)?</h3>
+- Answer: I try to spend an hour a day studying for this class -- and on days that 
+- we do have class, I like to spend that hour revising everything we learned 
+- the class before to make sure the information sticks in my head. 
+
+<h3>2. Give at least 3 specific examples of your participation.</h3>
+1. I try to answer questions in class
+2. I make sure I do the class examples when put in small groups, and sharing with the professor
+3. I make sure I do my share of the work in labs and small group work
+
+<h3>3. Goals for March: List at least 2 participation goals for March.</h3>
+1. Answer more questions in class 
+2. Asking for clarification if I think something is confusing 
+
+<h3>4. Identify a personal value that you want to practice in class: confidence
+- What are three ways you can practice the value in class?
+  1. Answering questions more often
+  2. Sharing thoughts about how to program something more often
+  3. Talking to new people instead of just talking to my best friend 
+
+<h3>5. Flexible Attendance Policy:</h3>
+- In this class, we don’t take attendance, and missing classes will not hurt your participation grade. Are you using the flexible attendance policy responsibly? Explain.
+- I haven't missed a single class, and I don't intend to skip -- I know if I do 
+- start skipping, I won't be able to stop, and that will really hurt my grade. 
+- I also want to make sure I'm actually taking time to learn the material 
+- rather than cram it all in at the end.
 
 ## `Self-Evaluation: February Participation`
 
