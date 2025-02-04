@@ -115,7 +115,6 @@ Participation can take many forms, many of which professors cannot observe.
   > 3.
 
 
-
 <h3>5. Flexible Attendance Policy:</h3>
 - In this class, we don’t take attendance, and missing classes will not hurt your participation grade.
 - Are you using the flexible attendance policy responsibly?
@@ -169,6 +168,7 @@ Participation can take many forms, many of which professors cannot observe.
 - Are you using the flexible attendance policy responsibly?
   > - Explain:
 
+Yes i do not abuse the loose attendance. The only classes I have missed were when I was sick and I notified that I was sick.
 [<h2>⬆Back To Top⬆</h2>](#instructions)
 
 ---
