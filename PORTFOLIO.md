@@ -55,26 +55,27 @@ Much of your participation grade will be based on your portfolio.
 ## `Self-Evaluation: February Participation`
 
 <h3>1. How much time do you spend per week studying for this class (not including regular meeting times)?</h3>
-- Answer: 
+- Answer: around 4.5-5 hours, this ranges from assignments and self review using articles and youtube videos
 
 <h3>2. Give at least 3 specific examples of your participation.</h3>
-1.
-2.
-3.
+1. Answering quesitons when called on in class
+2. Helping students during lab time with questions they have
+3. actively taking notes and following along with lectures
 
 <h3>3. Goals for March: List at least 2 participation goals for March.</h3>
-1.
-2.
+1. Be able to answers questions faster in class
+2.Dont get distracted by notifications on my phone
 
 <h3>4. Identify a personal value that you want to practice in class:</h3>
 - What are three ways you can practice the value in class?
-  1.
-  2.
-  3.
+  1. Dont get frustrated when I dont understand
+  2. Be more willing to ask for help
+  3. Consult articles if help is needed
 
 <h3>5. Flexible Attendance Policy:</h3>
 - In this class, we don’t take attendance, and missing classes will not hurt your participation grade. Are you using the flexible attendance policy responsibly? Explain.
 
+Yes i do not abuse the loose attendance. The only classes I have missed were when I was sick and I notified that I was sick.
 [<h2>⬆Back To Top⬆</h2>](#instructions)
 
 ---
